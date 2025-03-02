@@ -23,7 +23,7 @@ if not nc_files:
     print("No files found.")
 
 # Output directory for cropped files
-output_dir = r'F:\MF\newcropimerg'
+output_dir = r'F:\...'
 os.makedirs(output_dir, exist_ok=True)
 
 # Example: 3B-DAY.MS.MRG.3IMERG.20160101-S000000-E235959.V07B.nc4.nc4
